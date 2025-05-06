@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "553713560356",
+    "project_id": "studify-app-54116",
+    "storage_bucket": "studify-app-54116.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553713560356:android:5fe3405f95d6ffe94521b1",
+        "android_client_info": {
+          "package_name": "com.example.demo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553713560356-jor11rpa0m9l6p5p3k6f36ks8c5j7ti4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh8bqHlU1Urw16cxEw0WCARzVM2hu36KY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553713560356-jor11rpa0m9l6p5p3k6f36ks8c5j7ti4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "553713560356-qh92gku7ljvrku4c6elmqd5b57np8umo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.studify"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553713560356:android:c6505b10921892264521b1",
+        "android_client_info": {
+          "package_name": "com.example.studify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553713560356-o85erb8tmgli19ecvuqlvsjt7sdmmru8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studify",
+            "certificate_hash": "818a841190504ce6bd9191aa3436c07e04aa551b"
+          }
+        },
+        {
+          "client_id": "553713560356-jor11rpa0m9l6p5p3k6f36ks8c5j7ti4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh8bqHlU1Urw16cxEw0WCARzVM2hu36KY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553713560356-jor11rpa0m9l6p5p3k6f36ks8c5j7ti4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "553713560356-qh92gku7ljvrku4c6elmqd5b57np8umo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.studify"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
